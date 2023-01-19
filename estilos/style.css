@@ -55,6 +55,20 @@ section {
     font-family: var(--fonte3);
     font-size: 3.5vw;
 }
+
+    #especial:hover {
+    background-image: url('../imagens/textura-a-terra-seca-e-rachada_1232-3134.jpg');
+    background-position: left;
+    color: black;
+
+    
+   
+    
+    
+    
+    
+
+}
 section > p {
     padding-bottom: 2em;
 }
